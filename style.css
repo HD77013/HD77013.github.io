@@ -6,6 +6,10 @@ body{
     background-color: rgb(214, 255, 154);
 }
 
+.facts-page{
+    background-color: rgb(214, 255, 154);
+}
+
 .navbar{
     background-color: aquamarine;
     display: flex;
