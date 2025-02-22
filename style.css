@@ -6,6 +6,19 @@ body{
     background-color: rgb(214, 255, 154);
 }
 
+.navbar{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.navbar a{
+    font-size: large;
+    text-decoration: none;
+}
+
 .home-content-div{
     text-align: center;
 }
