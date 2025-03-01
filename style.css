@@ -10,10 +10,14 @@ body{
     background-color: rgb(214, 255, 154);
 }
 
+.gallery-page{
+    background-color: palegreen;
+}
+
 .navbar{
     background-color: aquamarine;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding-top: 2%;
     padding-bottom: 2%;
 }
@@ -37,4 +41,10 @@ body{
 
 .facts-content-div li{
     font-size: large;
+}
+
+.gallery-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
