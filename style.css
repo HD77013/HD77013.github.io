@@ -48,3 +48,14 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.gallery-content button{
+    border-radius: 30%;
+    padding: 1%;
+    margin: 1%;
+    background-color: darkgreen;
+    border: none;
+    font-weight: bolder;
+    font-size: x-large;
+    height: 1%;
+}
