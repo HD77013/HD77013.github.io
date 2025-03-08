@@ -55,7 +55,7 @@ footer {
 }
 
 .home-content-div p{
-   font-size: small;
+   font-size: x-large;
 }
 
 .facts-content-div{
@@ -63,7 +63,11 @@ footer {
 }
 
 .facts-content-div li{
-    font-size: large;
+    font-size: 40px;
+}
+
+.facts-content-div h2{
+    font-size: xxx-large;
 }
 
 .gallery-content{
