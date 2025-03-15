@@ -39,14 +39,14 @@ footer {
 
 .navbar a{
     color: white;
-    font-size: large;
+    font-size: xx-large;
     text-decoration: none;
     transition-duration: 0.4s;
 }
 
 .navbar a:hover{
     color: black;
-    font-size: large;
+    font-size: 30px;
     text-decoration: none;
 }
 
